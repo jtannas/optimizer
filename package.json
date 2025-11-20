@@ -1,0 +1,14 @@
+{
+	"name": "optimizer",
+	"private": true,
+	"devDependencies": {
+		"@biomejs/biome": "2.3.6",
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	},
+	"dependencies": {
+		"ts-brand": "^0.2.0"
+	}
+}
